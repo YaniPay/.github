@@ -2,7 +2,7 @@
 
 YaniPay is the GitHub organization for the teams building modern payments, banking, loyalty, and digital identity products across web, mobile, and blockchain infrastructure.
 
-This work is operated by California Wood Investment Ltd.
+This work is operated by YaniPay SAS.
 
 ## What We Build
 
@@ -19,4 +19,4 @@ This work is operated by California Wood Investment Ltd.
 
 ## Organization
 
-YaniPay is maintained by the team behind California Wood Investment Ltd.
+YaniPay is maintained by the team behind YaniPay SAS.
