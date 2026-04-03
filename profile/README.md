@@ -1,12 +1,22 @@
-## Hi there 👋
+# YaniPay
 
-<!--
+YaniPay is the GitHub organization for the teams building modern payments, banking, loyalty, and digital identity products across web, mobile, and blockchain infrastructure.
 
-**Here are some ideas to get you started:**
+This work is operated by California Wood Investment Ltd.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What We Build
+
+- Digital payments and wallet experiences
+- Banking and account infrastructure
+- Loyalty and rewards systems
+- Digital identity and security layers
+- White-label financial products
+
+## Featured Repositories
+
+- [`management-system`](https://github.com/YaniPay/management-system) - internal and operational tooling
+- [`yanipay-animation`](https://github.com/YaniPay/yanipay-animation) - product platform, user experience, and mobile/web development
+
+## Organization
+
+YaniPay is maintained by the team behind California Wood Investment Ltd.
